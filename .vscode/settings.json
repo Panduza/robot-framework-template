@@ -1,0 +1,10 @@
+{
+    "robot.pythonpath": [
+        "${workspaceFolder}/platform/template"
+    ],
+    "robotcode.robot.pythonPath": [
+        "${workspaceFolder}/libraries",
+        "${workspaceFolder}/platform/template"
+        // "${workspaceFolder}/platform/demo"
+    ]
+}
